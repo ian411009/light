@@ -28,7 +28,7 @@ body {
   font-family: 標楷體;
   font-size: 67px;
   font-weight: 800;
-  letter-spacing: 22px;
+  letter-spacing: 26px;
   line-height: 105px;
   color: #fffacf;
   text-shadow: rgb(255, 255, 255) 0px 0px 10px;
@@ -95,17 +95,17 @@ body {
 .second {
   position: fixed;
   top: 4%;
-  left: 451px;
+  left: 460px;
 }
 .third {
   position: fixed;
   top: 5%;
-  left: 200px;
+  left: 185px;
 }
 .fourth {
   position: fixed;
   top: 5%;
-  left: 720px;
+  left: 770px;
 }
 .bottom {
   content: "";
