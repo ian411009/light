@@ -236,11 +236,11 @@ body {
 }
 .right {
   position: fixed;
-  margin-left: 105px;
+  margin-left: 115px;
 }
 .light {
   position: fixed;
   bottom:108%;
   left: 10%;
-  transform: scale(1.3);
+  transform: scale(1.5);
 }
