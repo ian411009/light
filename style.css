@@ -8,7 +8,7 @@ body {
   left: 0;
   top: 0;
   width: 100%;
-  height: 650px;
+  height: 700px;
   background: linear-gradient(to bottom, #0469c7, #cfe8ff);
 }
 .moon {
@@ -240,7 +240,7 @@ body {
 }
 .light {
   position: fixed;
-  bottom:90%;
+  bottom:98%;
   left: 10%;
   transform: scale(1.1);
 }
