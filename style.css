@@ -96,7 +96,7 @@ body {
 .second {
   position: fixed;
   top: 4%;
-  left: 550px;
+  left: 800px;
   transform: scale(1.8);
 }
 .third {
@@ -108,7 +108,7 @@ body {
 .fourth {
   position: fixed;
   top: 5%;
-  left: 1060px;
+  left: 1260px;
   transform: scale(1.8);
 }
 .bottom {
@@ -244,7 +244,7 @@ body {
 }
 .light {
   position: fixed;
-  top: -5%;
+  top: -4%;
   left: 12%;
-  transform: scale(1.7);
+  transform: scale(1.75);
 }
