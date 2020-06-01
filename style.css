@@ -102,13 +102,13 @@ body {
 .third {
   position: fixed;
   top: 5%;
-  left: 280px;
+  left: 380px;
   transform: scale(1.8);
 }
 .fourth {
   position: fixed;
   top: 5%;
-  left: 960px;
+  left: 1060px;
   transform: scale(1.8);
 }
 .bottom {
@@ -246,5 +246,5 @@ body {
   position: fixed;
   top: -5%;
   left: 12%;
-  transform: scale(1.6);
+  transform: scale(1.7);
 }
