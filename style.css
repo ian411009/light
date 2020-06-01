@@ -26,7 +26,7 @@ body {
   left: 42%;
   top: 30%;
   font-family: 標楷體;
-  font-size: 92px;
+  font-size: 95px;
   font-weight: 800;
   letter-spacing: 20px;
   line-height: 175px;
@@ -91,25 +91,25 @@ body {
   position: fixed;
   top: 5%;
   left: -190px;
-  transform: scale(1.8);
+  transform: scale(1.85);
 }
 .second {
   position: fixed;
   top: 4%;
-  left: 1000px;
-  transform: scale(1.8);
+  left: 890px;
+  transform: scale(1.85);
 }
 .third {
   position: fixed;
   top: 5%;
   left: 380px;
-  transform: scale(1.8);
+  transform: scale(1.85);
 }
 .fourth {
   position: fixed;
   top: 5%;
   left: 1260px;
-  transform: scale(1.8);
+  transform: scale(1.85);
 }
 .bottom {
   content: "";
