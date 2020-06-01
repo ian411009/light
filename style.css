@@ -8,15 +8,15 @@ body {
   left: 0;
   top: 0;
   width: 100%;
-  height: 800px;
+  height: 650px;
   background: linear-gradient(to bottom, #0469c7, #cfe8ff);
 }
 .moon {
   position: fixed;
   top: 1.5%;
   left: 2%;
-  width: 250px;
-  height: 250px;
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   background-color: #ffdb59;
   box-shadow: 0px 0px 30px 3px rgb(255, 245, 64, 1);
@@ -37,7 +37,7 @@ body {
   position: fixed;
   bottom: 0%;
   width: 100%;
-  height: 30%;
+  height: 20%;
   background-color: #00943b;
 }
 .cloude {
@@ -90,26 +90,26 @@ body {
 .first {
   position: fixed;
   top: 5%;
-  left: -165px;
-  transform: scale(2);
+  left: -190px;
+  transform: scale(1.8);
 }
 .second {
   position: fixed;
   top: 4%;
-  left: 480px;
-  transform: scale(2);
+  left: 520px;
+  transform: scale(1.8);
 }
 .third {
   position: fixed;
   top: 5%;
-  left: 160px;
-  transform: scale(2);
+  left: 210px;
+  transform: scale(1.8);
 }
 .fourth {
   position: fixed;
   top: 5%;
-  left: 800px;
-  transform: scale(2);
+  left: 860px;
+  transform: scale(1.8);
 }
 .bottom {
   content: "";
@@ -244,7 +244,7 @@ body {
 }
 .light {
   position: fixed;
-  top: -2%;
-  left: 10%;
-  transform: scale(1.5);
+  top: 0%;
+  left: 12%;
+  transform: scale(1.75);
 }
