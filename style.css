@@ -96,13 +96,13 @@ body {
 .second {
   position: fixed;
   top: 4%;
-  left: 890px;
+  left: 690px;
   transform: scale(1.85);
 }
 .third {
   position: fixed;
   top: 5%;
-  left: 380px;
+  left: 330px;
   transform: scale(1.85);
 }
 .fourth {
