@@ -23,13 +23,13 @@ body {
 }
 .w {
   position: fixed;
-  left: 40%;
+  left: 42%;
   top: 30%;
   font-family: 標楷體;
-  font-size: 90px;
+  font-size: 92px;
   font-weight: 800;
   letter-spacing: 20px;
-  line-height: 170px;
+  line-height: 175px;
   color: #fffacf;
   text-shadow: rgb(255, 255, 255) 0px 0px 6px;
 }
@@ -96,7 +96,7 @@ body {
 .second {
   position: fixed;
   top: 4%;
-  left: 800px;
+  left: 1000px;
   transform: scale(1.8);
 }
 .third {
